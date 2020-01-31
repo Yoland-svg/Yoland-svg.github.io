@@ -1,7 +1,7 @@
 # Site settings
 title: yoland - Web Developer
 description: "A blog about  ubuntu"
-baseurl: "/yoland-svg.github.io"
+baseurl: "/Yoland-svg.github.io"
 url: "http://yoland-svg.github.io"
 # but in production: 'https://cokia-cinco.github.io'
 # User settings
