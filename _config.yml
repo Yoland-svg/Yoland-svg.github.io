@@ -1,19 +1,19 @@
 # Site settings
-title: cokia - Web Developer
+title: Yoland - Web Developer
 description: "A blog about  ubuntu"
-baseurl: "/cokia-cinco.github.io"
-url: "http://cokia-cinco.github.io"
+baseurl: "/Yoland-svg.github.io"
+url: "http://Yoland-svg.github.io"
 # but in production: 'https://cokia-cinco.github.io'
 # User settings
-username: cokia-cinco
+username: Yoland-svg
 user_title: Lorem Ipsum - FrontEnd
-email: 23177804@qq.com
-twitter_username: cokia
-github_username:  cokia-cinco
-gplus_username:  cokia
+email: 2302046047@qq.com
+twitter_username: Yoland
+github_username:  Yoland-svg
+gplus_username:  Yoland
 linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
-profile_picture: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577435717595&di=852a5cffaacb4778b8fcd3c0a7a765a5&imgtype=0&src=http%3A%2F%2F00.minipic.eastday.com%2F20170113%2F20170113135525_f5e0c61cde5b59036cb269405594f3fa_1.jpeg
+profile_picture: https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E5%A4%B4%E5%83%8F%E5%9B%BE%E7%89%87&step_word=&hs=2&pn=92&spn=0&di=31820&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1795594231%2C3836433727&os=484308770%2C1382886934&simid=3466607540%2C348328737&adpicid=0&lpn=0&ln=1868&fr=&fmq=1580469723662_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=head&bdtype=11&oriquery=&objurl=http%3A%2F%2Fwx4.sinaimg.cn%2Forj360%2F76a1a9d5ly1ga08c124egj20jg0id0sx.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fojtk5_z%26e3Bv54AzdH3F7AzdH3F8llanamdm8%3Ftf_wss%3D8&gsm=&rpstart=0&rpnum=0&islist=&querylist=&force=undefined
 # Build settings
 markdown: kramdown
 highlighter: rouge
