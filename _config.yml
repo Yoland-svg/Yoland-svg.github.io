@@ -13,7 +13,7 @@ github_username:  yoland-svg
 gplus_username:  yoland
 linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: loremipsum
-profile_picture:https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604408686685&di=fbbf6ea79df324ff5f4d33ce35fe3fa4&imgtype=0&src=http%3A%2F%2Fa3.att.hudong.com%2F64%2F52%2F01300000407527124482522224765.jpg
+profile_picture: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604408686685&di=fbbf6ea79df324ff5f4d33ce35fe3fa4&imgtype=0&src=http%3A%2F%2Fa3.att.hudong.com%2F64%2F52%2F01300000407527124482522224765.jpg
 # Build settings
 markdown: kramdown
 highlighter: rouge
